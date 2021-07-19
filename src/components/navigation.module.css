@@ -9,6 +9,11 @@
   font-size: 1.25em;
 }
 
+.navContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
 .navigationItem {
   display: inline-flex;
   align-items: center;
